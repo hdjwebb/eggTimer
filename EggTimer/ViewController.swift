@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     var name: String
     var age: Int
     
-    age = 40
+    age = 41
     name = "Henry"
     print(name)
     

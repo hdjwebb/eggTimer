@@ -11,6 +11,10 @@ import UIKit
 
 class ViewController: UIViewController {
     
-
+    var name: String
+    var age: Int
+    
+    age = 40
+    name = "Henry"
 
 }

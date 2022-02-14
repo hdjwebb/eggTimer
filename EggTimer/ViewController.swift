@@ -16,5 +16,5 @@ class ViewController: UIViewController {
     
     age = 40
     name = "Henry"
-
+    print(name)
 }

@@ -11,12 +11,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var name: String
-    var age: Int
-    
-    age = 40
-    name = "Henry"
-    print(name)
+
     
     // making lots of changes to understand what happens when I commit
 }

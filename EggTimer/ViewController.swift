@@ -11,7 +11,16 @@ import UIKit
 
 class ViewController: UIViewController {
     
+<<<<<<< HEAD
 
+=======
+    var name: String
+    var age: Int
+    
+    age = 41
+    name = "Henry"
+    print(name)
+>>>>>>> hw/change-to-age
     
     // making lots of changes to understand what happens when I commit
 }

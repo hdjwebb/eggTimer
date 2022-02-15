@@ -21,4 +21,6 @@ class ViewController: UIViewController {
 
     
     // making lots of changes to understand what happens when I commit
+    // A branch on a branch
+    // so this is a checkout of a branch that i'll commit and push to the same remote branch
 }

@@ -12,7 +12,7 @@ import UIKit
 class ViewController: UIViewController {
     
 
-<<<<<<< HEAD
+
     var name: String
     var age: Int
     
@@ -20,5 +20,5 @@ class ViewController: UIViewController {
     name = "Henry"
     print(name)
 
-    // new comments - removed the old ones.
+
 }
